@@ -2,4 +2,6 @@ var hola = 2;
 
 var a = 2 + 2;
 
-console.log('holacomo va?');
+var b = 2 * 3;
+
+console.log('hola como va?');
